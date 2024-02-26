@@ -1,8 +1,8 @@
 #include <ESP8266WebServer.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid = "dev.scrollnet";
-const char* password = "0580";
+const char* ssid = "dev.scrollxnet";
+const char* password = "05801111";
 
 int ledPin = 14; 
 WiFiServer server(80);
